@@ -5,7 +5,7 @@ plugins {
 
 sonar {
   properties {
-    property("sonar.projectKey", "Blauindy_devsecops-pipeline")
+    property("sonar.projectKey", "Blauindy_RandomNo")
     property("sonar.organization", "inf22")
     property("sonar.host.url", "https://sonarcloud.io")
   }
